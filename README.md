@@ -4,7 +4,7 @@
 
 - <b>Microsoft Azure</b>
 
-  - [Preparing Active Directory Infrastructure in (Azure)](https://github.com/preparing-ad-inf-azure#preparing-active-directory-infrastructure-in-azure/configure-ad)
+  - [Preparing Active Directory Infrastructure in (Azure)](https://github.com/FunnyTom1216/preparing-ad-inf-azure#preparing-active-directory-infrastructure-in-azure/configure-ad)
 
 <h2>🤳Connect with me:</h2>
 
