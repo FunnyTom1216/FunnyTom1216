@@ -1,4 +1,7 @@
-<h1>Hi, I'm Anthony, an <a href="www.linkedin.com/in/anthony-a-153998b7">IT help desk</a>!</h1>
+<h1>Hi, I'm Anthony, an <a href="www.linkedin.com/in/anthony-a-153998b7">IT Professional </a>!</h1>
+
+## Introduction
+I am an aspiring IT Support Specialist building hands-on experience through real-world lab environments. I'm focused on helping people with troubleshooting, networking, and end-user support by practicing skills required to operate in IT Help Desk. Hoping to get more experience to better further my career.
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
