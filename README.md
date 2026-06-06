@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/FunnyTom1216/osticket-prereqs/blob/main/README.md)
+ 
 - <b>Microsoft Azure</b>
 
   - [Preparing Active Directory Infrastructure in (Azure)](https://github.com/FunnyTom1216/preparing-ad-inf-azure#preparing-active-directory-infrastructure-in-azure/configure-ad)
