@@ -3,8 +3,9 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Preparing Active Directory Infrastructure in (Azure)]([https://github.com/FunnyTom1216/preparing-ad-inf-azure/blob/main/README.md#preparing-active-directory-infrastructure-in-azure))
-  
+
+  - [Preparing Active Directory Infrastructure in (Azure)](https://github.com/preparing-ad-inf-azure#preparing-active-directory-infrastructure-in-azure/configure-ad)
+
 <h2>🤳Connect with me:</h2>
 
 
